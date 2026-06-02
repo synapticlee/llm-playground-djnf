@@ -4,7 +4,6 @@
 .RData
 .Rproj.user
 .httr-oauth
-*.Rproj
 
 # Python (legacy)
 __pycache__/
